@@ -1,8 +1,12 @@
 # Prompting as a Programming Language — Companion Workbook
 
-**Status:** Private draft — **NOT PUBLIC / NOT FINAL**  
+**Status:** Private workbook — linked from **book appendix** (`manuscript/25-next-steps-reading-glossary.md`) as of **`2026-05-15`** · GitHub **`codethor0/prompting-as-a-programming-language-companion`** (**PRIVATE** visibility until changed).  
 **Author:** Thor Thor  
 **Companion to:** *Prompting as a Programming Language: A Practical Guide to Prompt-Oriented Programming, AI Workflows, and Automation*
+
+## Quick path
+
+Start at **`START-HERE.md`**, then skim **`SAFETY.md`** before editing templates.
 
 ## What this is
 
